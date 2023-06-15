@@ -1,0 +1,2 @@
+survol list names , recuperer la str et l' idx, charger avec fstring nom idle hover pressed, ajouter cetteinstance dans une liste de classe, mesurer len_list_cls
+pour avoir idx, moinkey patch les instance pour +idx +name . utiliser un dico {'name': fn_name} , toujours en monkey patch.
